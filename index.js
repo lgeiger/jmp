@@ -34,7 +34,7 @@
 
 var crypto = require("crypto");
 var uuid = require("uuid/v4");
-var zmq = require("zeromq");
+var zmq = require("zeromq-ng/compat");
 
 var DEBUG = global.DEBUG || false;
 

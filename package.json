@@ -23,7 +23,7 @@
     },
     "dependencies": {
         "uuid": "3",
-        "zeromq": "4"
+        "zeromq-ng": "^5.0.0-beta.15"
     },
     "devDependencies": {
         "debug": "2",
